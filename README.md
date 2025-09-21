@@ -11,7 +11,7 @@ This template provides a clean structure, utility-first styling with the latest 
 - 🛡 **TypeScript** — Strong typing for maintainability  
 - 🧩 **Atomic Design** — Scalable UI architecture  
 - 🎨 **TailwindCSS v4** — Zero-config, utility-first styling  
-- ✅ Pre-configured ESLint & Prettier (Biome) 
+- ✅ Pre-configured ESLint & Prettier
 
 ---
 
@@ -92,8 +92,7 @@ Your app will be running at: http://localhost:5173
 - **TailwindCSS v4**
  — Utility-first styling (zero config)
 
-- **ESLint**
- & Prettier
+- **ESLint & Prettier**
  — Code quality & formatting
 
 ## 📝 License
