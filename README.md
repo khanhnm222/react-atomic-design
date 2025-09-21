@@ -92,6 +92,10 @@ Your app will be running at: http://localhost:5173
 - **TailwindCSS v4**
  — Utility-first styling (zero config)
 
+- **ESLint**
+ & Prettier
+ — Code quality & formatting
+
 ## 📝 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and share it in your own projects.
